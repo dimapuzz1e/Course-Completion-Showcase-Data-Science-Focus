@@ -2,7 +2,7 @@
 
 This is a repository to showcase my achievement in the courses I took/am taking for self-development on the Coursera, Udemy, EPAM Learning and other platforms. I have attempted to group the courses based on the data science Venn diagram shown below. Each course includes a description of the materials covered, completed assignments, and obtained certificates. I regularly update this repository with new courses and achievements. I hope this report helps you gain an understanding of my knowledge and skills in the field of data science.
 
-<p align="center"> <img src="DataScienceVennDiagram.jpeg" alt="Data Science Venn Diagram" width="450" height="310"/> </p>
+<p align="center"> <img src="DataScienceVennDiagram.jpeg" alt="Data Science Venn Diagram" width="600" height="500"/> </p>
 
 ### (A) Computer Science
 
@@ -11,6 +11,11 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 ### (C) Domain Expertise
 
 ### (A ∩ B) Machine Learning
+
+#### [Algorithms](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/Algorithms)
+
+- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) (University of California San Diego) ([CERT](https://www.coursera.org/account/accomplishments/certificate/CXZSW9EJUBD5))
+- [Data Structures](https://www.coursera.org/learn/data-structures) (University of California San Diego) ([CERT](https://www.coursera.org/account/accomplishments/certificate/3PA48ZUSKEEC))
 
 ### (B ∩ C) Research
 
