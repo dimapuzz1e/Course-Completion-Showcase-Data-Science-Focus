@@ -6,6 +6,10 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 ### (A) Computer Science
 
+#### [Python](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/Python)
+
+- [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) (Google) ([CERT](https://www.coursera.org/account/accomplishments/certificate/A9WEEJU3SEAR))
+
 ### (B) Mathematics & Statistics
 
 ### (C) Domain Expertise
