@@ -20,7 +20,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 ### (D) Other areas
 
-#### English
+#### [English](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/English)
 
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment) (University of Pennsylvania) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KK8285M5C2R8))
-- [English for Career Development](https://kpi.ua/regulations-v) (National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute) ([CERT](Data Base Closed))
+- [English for Career Development](https://kpi.ua/regulations-v) (National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute) (Data Base Closed)
