@@ -10,6 +10,14 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 - [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) (Google) ([CERT](https://www.coursera.org/account/accomplishments/certificate/A9WEEJU3SEAR))
 
+#### [Linux](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/Linux)
+
+- [Linux for Developers](https://www.coursera.org/learn/linux-for-developers) (The Linux Foundation) ([CERT](https://www.coursera.org/account/accomplishments/certificate/UESMSTTDQ656))
+- [Linux Tools for Developers](https://www.coursera.org/learn/linux-tools-for-developers) (The Linux Foundation) ([CERT](https://www.coursera.org/account/accomplishments/certificate/FCMUDQNTSDDC))
+- [Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/YCVXP8KCKXHZ))
+- [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer) (Hebrew University of Jerusalem) ([CERT](https://www.coursera.org/account/accomplishments/certificate/Y9FGUZK9GWUV))
+- [Bash Scripting and System Configuration](https://www.coursera.org/learn/codio-bash-scripting-and-system-configuration) (Codio) ([CERT](https://www.coursera.org/account/accomplishments/certificate/RY3YTJ296VMK))
+
 ### (B) Mathematics & Statistics
 
 #### [Physics](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/Physics)
