@@ -12,6 +12,10 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 ### (B) Mathematics & Statistics
 
+#### [Physics](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/Physics)
+
+- [Mechanics: Motion, Forces, Energy and Gravity, from Particles to Planets](https://www.coursera.org/learn/mechanics-particles-planets) (UNSW Sydney (The University of New South Wales)) ([CERT](https://www.coursera.org/account/accomplishments/certificate/3YALTU5L7AB5))
+
 ### (C) Domain Expertise
 
 ### (A ∩ B) Machine Learning
