@@ -2,7 +2,7 @@
 
 This is a repository to showcase my achievement in the courses I took/am taking for self-development on the Coursera, Udemy, EPAM Learning and other platforms. I have attempted to group the courses based on the data science Venn diagram shown below. Each course includes a description of the materials covered, completed assignments, and obtained certificates. I regularly update this repository with new courses and achievements. I hope this report helps you gain an understanding of my knowledge and skills in the field of data science.
 
-<p align="center"> <img src="DataScienceVennDiagram.jpeg" alt="Data Science Venn Diagram" width="600" height="430"/> </p>
+<p align="center"> <img src="DataScienceVennDiagram.jpeg" alt="Data Science Venn Diagram" width="600" height="420"/> </p>
 
 ### (A) Computer Science
 
@@ -36,6 +36,17 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 ### (B ∩ C) Research
 
 ### (A ∩ C) Software Development
+
+#### [Web Development](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/Web-Development)
+
+- [Web Design for Everybody: Basics of Web Development & Coding](https://www.coursera.org/specializations/web-design) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/specialization/certificate/XJ3FZJEVF2VS))
+  1. [Introduction to HTML5](https://www.coursera.org/learn/html) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/certificate/W8RU8UEYRRF9))
+  2. [Introduction to CSS3](https://www.coursera.org/learn/introcss) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/certificate/7HJ35GL6CQVZ))
+  3. [Interactivity with JavaScript](https://www.coursera.org/learn/javascript) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/certificate/7YWXGJRD7NRN))
+  4. [Advanced Styling with Responsive Design](https://www.coursera.org/learn/responsivedesign) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/certificate/NLXEU524MMYC))
+  5. [Web Design for Everybody Capstone](https://www.coursera.org/learn/web-design-project) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/certificate/8WE9XBV8QUXS))
+
+- [Building Web Applications in PHP](https://www.coursera.org/learn/web-applications-php) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/certificate/GPQWK4ZFZGRX))
 
 ### (A ∩ B ∩ C) Data Science
 
