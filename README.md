@@ -37,7 +37,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 ### (A ∩ C) Software Development
 
-#### [Web Development](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/Web-Development)
+#### [Web Development](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/Web%20Development)
 
 - [Web Design for Everybody: Basics of Web Development & Coding](https://www.coursera.org/specializations/web-design) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/specialization/certificate/XJ3FZJEVF2VS))
   1. [Introduction to HTML5](https://www.coursera.org/learn/html) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/certificate/W8RU8UEYRRF9))
@@ -55,7 +55,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 #### [English](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/English)
 
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment) (University of Pennsylvania) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KK8285M5C2R8))
-- [English for Career Development](https://kpi.ua/regulations-v) (National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute) (Data Base Closed)
+- [Ukrainian and Foreign Science](https://kpi.ua/regulations-v) (National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute) (Data Base Closed)
 
 #### [German](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/German)
 
