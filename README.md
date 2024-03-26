@@ -40,6 +40,7 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 #### [Web Development](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/Web%20Development)
 
 - [Web Design for Everybody: Basics of Web Development & Coding](https://www.coursera.org/specializations/web-design) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/specialization/certificate/XJ3FZJEVF2VS))
+
   1. [Introduction to HTML5](https://www.coursera.org/learn/html) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/certificate/W8RU8UEYRRF9))
   2. [Introduction to CSS3](https://www.coursera.org/learn/introcss) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/certificate/7HJ35GL6CQVZ))
   3. [Interactivity with JavaScript](https://www.coursera.org/learn/javascript) (University of Michigan) ([CERT](https://www.coursera.org/account/accomplishments/certificate/7YWXGJRD7NRN))
@@ -56,6 +57,8 @@ This is a repository to showcase my achievement in the courses I took/am taking 
 
 - [English for Career Development](https://www.coursera.org/learn/careerdevelopment) (University of Pennsylvania) ([CERT](https://www.coursera.org/account/accomplishments/certificate/KK8285M5C2R8))
 - [Ukrainian and Foreign Science](https://kpi.ua/regulations-v) (National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute) (Data Base Closed)
+- [English for Common Interactions in the Workplace: Basic Level](https://www.coursera.org/learn/english-common-interactions-workplace-basic-level) (Pontificia Universidad Católica de Chile) ([CERT](https://www.coursera.org/account/accomplishments/certificate/HH6CV29KPGB7))
+- [English Composition I](https://www.coursera.org/learn/english-composition) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/certificate/NQDVZPMQVNUN))
 
 #### [German](https://github.com/dimapuzz1e/Course-Completion-Showcase-Data-Science-Focus/tree/main/German)
 
